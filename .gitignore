@@ -1,0 +1,4 @@
+*.zip 
+play-java-starter-example-2.5.x/ 
+*/.idea/ 
+*.class 
